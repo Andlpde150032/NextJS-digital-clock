@@ -1,4 +1,5 @@
-# NextJS Digital Clock
+# NextJS Digital Clock 
+![Image](https://github.com/user-attachments/assets/d237e71f-e488-4a14-9204-718512fbae64)
 
 A customizable digital clock application that allows users to enhance their second screen with an elegant time display.
 
