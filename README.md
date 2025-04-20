@@ -15,9 +15,9 @@ A customizable digital clock application that allows users to enhance their seco
 2. Open the project in Visual Studio Code
 3. Install dependencies:
    ```
-   npm install --legacy-peer-deps
+   npm install
    ```
-   *Note: The `--legacy-peer-deps` flag is required to resolve dependency conflicts*
+   *Note:Use the `--legacy-peer-deps`  to resolve dependency conflicts*
 
 ## Usage
 
